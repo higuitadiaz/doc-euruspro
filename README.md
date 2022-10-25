@@ -6,7 +6,7 @@ description: >-
 
 # Introducción
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption><p>Valija Express Ltda</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption><p>Valija Express Ltda</p></figcaption></figure>
 
 En el centro de ayuda contarás con una guía del uso del Asistente Virtual para WhatsAPP, donde se detalla cada uno de los pasos que realiza el robot en el caso de que el cliente sea Frecuente o No Frecuente.
 

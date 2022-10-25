@@ -9,7 +9,7 @@ description: >-
 Para ejecutar la configuración del usuario a Partner Account, debe realizar los siguientes pasos:
 
 1. Dirigirse al módulo de Contactos que se encuentra en el menú de navegación, al lado izquierdo de la pantalla.
-2. Al ingresar al módulo, debe buscar el nombre del usuario que quiere convertir a Partner Account. Posteriormente debe acceder al formulario y pinchar el botón que está en la parte superior![](<../.gitbook/assets/image (50).png>)
+2. Al ingresar al módulo, debe buscar el nombre del usuario que quiere convertir a Partner Account. Posteriormente debe acceder al formulario y pinchar el botón que está en la parte superior![](<../.gitbook/assets/image (13).png>)
 3. Realizado el paso anterior, el usuario queda convertido en Partner Account.
 
 {% hint style="info" %}
