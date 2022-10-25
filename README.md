@@ -12,6 +12,12 @@ En el centro de ayuda contarás con una guía del uso del Asistente Virtual para
 
 También tendrá acceso a la guía de Gestión de Usuarios Partner Account, esta sección muestra cómo se configura un usuario a Partner Account.&#x20;
 
+{% hint style="danger" %}
+**Sitio Web Confidencial**
+
+Todo el contenido de esta página son confidenciales y no puede ser replicada, copiada o usada sin la previa autorización de **EURUS PRO SpA** de Chile.
+{% endhint %}
+
 ## Tabla de contenido
 
 {% content-ref url="uso-de-asistente-virtual/asistente-virtual-whatsapp.md" %}
